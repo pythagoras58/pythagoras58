@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pythagoras58 [DANSO SOLOMON DANQUAH]
-- 👀 I’m interested in JAVA(Springboot) and PHP projects
+- 👀 I’m interested in JAVA(Springboot), ASP.NET and PHP projects
 - 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on Java and PHP projects
+- 💞️ I’m looking to collaborate on Java, C# and PHP projects
 - 📫 How to reach me ...solomondanso58@gmail.com / +233578527885
 
 <!---
